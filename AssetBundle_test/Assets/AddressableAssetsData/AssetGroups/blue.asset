@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: blue
+  m_EditorClassIdentifier: 
+  m_GroupName: blue
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 45087426c9402644bba63266a14ab911
+  m_SerializeEntries:
+  - m_GUID: 962453c1258572d40ba84a91ff70ec31
+    m_Address: Assets/2.Prefabs/Blue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ea91a7f21f7b9324ca77cc2bdd797ac9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d19c29c3a9d26c440a4a42a5a921d588, type: 2}
+    - {fileID: 11400000, guid: 44afb373334023f41b71490fa0729aff, type: 2}

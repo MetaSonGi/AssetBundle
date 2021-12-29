@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ieg_test
+  m_EditorClassIdentifier: 
+  m_GroupName: ieg_test
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5d2d3233efdcd8840a77008865eff644
+  m_SerializeEntries:
+  - m_GUID: 4f4822f0a6ab80a4ca170d07d8936703
+    m_Address: Assets/4.Sprites/ico_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - testlabel
+    m_MainAsset: {fileID: 2800000, guid: 4f4822f0a6ab80a4ca170d07d8936703, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4f4822f0a6ab80a4ca170d07d8936703, type: 3}
+  - m_GUID: 60fdc0a62a6aef44e83749e9980246d6
+    m_Address: Assets/4.Sprites/ico_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 60fdc0a62a6aef44e83749e9980246d6, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 60fdc0a62a6aef44e83749e9980246d6, type: 3}
+  - m_GUID: 83c0cf6757913df41ba2c12d4d60fcf8
+    m_Address: Assets/4.Sprites/ico_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 83c0cf6757913df41ba2c12d4d60fcf8, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 83c0cf6757913df41ba2c12d4d60fcf8, type: 3}
+  - m_GUID: 2d10a838fa897fe4ab913d9bc42aafeb
+    m_Address: Assets/4.Sprites/ico_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 2d10a838fa897fe4ab913d9bc42aafeb, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 2d10a838fa897fe4ab913d9bc42aafeb, type: 3}
+  - m_GUID: ffca0aadcf0c7e44ab181bc73957f21d
+    m_Address: Assets/4.Sprites/ico_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ffca0aadcf0c7e44ab181bc73957f21d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ffca0aadcf0c7e44ab181bc73957f21d, type: 3}
+  - m_GUID: e7411b41c7d066d43b2e5ca773bdd7ed
+    m_Address: "Assets/4.Sprites/Unity Arduino servo \uC81C\uC5B4.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 32900000, guid: e7411b41c7d066d43b2e5ca773bdd7ed, type: 3}
+    m_TargetAsset: {fileID: 32900000, guid: e7411b41c7d066d43b2e5ca773bdd7ed, type: 3}
+  - m_GUID: 5898754eb775d714a839e09bd35a55a2
+    m_Address: "Assets/4.Sprites/Unity XR \uC778\uD130\uB809\uC158\uD234\uD0B7 \uB85C\uBD07\uC81C\uC5B4.mp4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 32900000, guid: 5898754eb775d714a839e09bd35a55a2, type: 3}
+    m_TargetAsset: {fileID: 32900000, guid: 5898754eb775d714a839e09bd35a55a2, type: 3}
+  - m_GUID: 9a7f13e1e274df54c89298e8fbe35d66
+    m_Address: Assets/1.Scenes/etest.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ea91a7f21f7b9324ca77cc2bdd797ac9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a431e91fc9bdc274f9fea0665aace531, type: 2}
+    - {fileID: 11400000, guid: 43c22acf441d2a447b1f0bf79854f7f8, type: 2}
